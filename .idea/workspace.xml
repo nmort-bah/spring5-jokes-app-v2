@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27b1072f-e144-4e7c-bb48-278873612b8f" name="Changes" comment="added Controller. Closes #4">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="27b1072f-e144-4e7c-bb48-278873612b8f" name="Changes" comment="Closes #5">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/banner.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657559199418</updated>
-      <workItem from="1657559201186" duration="3514000" />
+      <workItem from="1657559201186" duration="3809000" />
     </task>
     <task id="LOCAL-00001" summary="creating project. Closes #1">
       <created>1657559986501</created>
@@ -104,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657561291223</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Closes #5">
+      <created>1657563793774</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657563793774</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +132,7 @@
     <MESSAGE value="adding dependency. Closes #2" />
     <MESSAGE value="added Service. Closes #3" />
     <MESSAGE value="added Controller. Closes #4" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Controller. Closes #4" />
+    <MESSAGE value="Closes #5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Closes #5" />
   </component>
 </project>
